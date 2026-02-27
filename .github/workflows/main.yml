@@ -5,7 +5,7 @@ jobs:
       runs-on: ubuntu-latest
           steps:
                 - uses: actions/checkout@v3
-                      - name: Step 1
+                      - name: Ste triggerp 1
                               run: echo hello
                                     - name: Step 2
                                             run: echo world
