@@ -1,0 +1,206 @@
+name: Heavy Load Test
+on: [pull_request, workflow_run]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Step 1
+        run: sleep 1
+      - name: Step 2
+        run: sleep 1
+      - name: Step 3
+        run: sleep 1
+      - name: Step 4
+        run: sleep 1
+      - name: Step 5
+        run: sleep 1
+      - name: Step 6
+        run: sleep 1
+      - name: Step 7
+        run: sleep 1
+      - name: Step 8
+        run: sleep 1
+      - name: Step 9
+        run: sleep 1
+      - name: Step 10
+        run: sleep 1
+      - name: Step 11
+        run: sleep 1
+      - name: Step 12
+        run: sleep 1
+      - name: Step 13
+        run: sleep 1
+      - name: Step 14
+        run: sleep 1
+      - name: Step 15
+        run: sleep 1
+      - name: Step 16
+        run: sleep 1
+      - name: Step 17
+        run: sleep 1
+      - name: Step 18
+        run: sleep 1
+      - name: Step 19
+        run: sleep 1
+      - name: Step 20
+        run: sleep 1
+      - name: Step 21
+        run: sleep 1
+      - name: Step 22
+        run: sleep 1
+      - name: Step 23
+        run: sleep 1
+      - name: Step 24
+        run: sleep 1
+      - name: Step 25
+        run: sleep 1
+      - name: Step 26
+        run: sleep 1
+      - name: Step 27
+        run: sleep 1
+      - name: Step 28
+        run: sleep 1
+      - name: Step 29
+        run: sleep 1
+      - name: Step 30
+        run: sleep 1
+      - name: Step 31
+        run: sleep 1
+      - name: Step 32
+        run: sleep 1
+      - name: Step 33
+        run: sleep 1
+      - name: Step 34
+        run: sleep 1
+      - name: Step 35
+        run: sleep 1
+      - name: Step 36
+        run: sleep 1
+      - name: Step 37
+        run: sleep 1
+      - name: Step 38
+        run: sleep 1
+      - name: Step 39
+        run: sleep 1
+      - name: Step 40
+        run: sleep 1
+      - name: Step 41
+        run: sleep 1
+      - name: Step 42
+        run: sleep 1
+      - name: Step 43
+        run: sleep 1
+      - name: Step 44
+        run: sleep 1
+      - name: Step 45
+        run: sleep 1
+      - name: Step 46
+        run: sleep 1
+      - name: Step 47
+        run: sleep 1
+      - name: Step 48
+        run: sleep 1
+      - name: Step 49
+        run: sleep 1
+      - name: Step 50
+        run: sleep 1
+      - name: Step 51
+        run: sleep 1
+      - name: Step 52
+        run: sleep 1
+      - name: Step 53
+        run: sleep 1
+      - name: Step 54
+        run: sleep 1
+      - name: Step 55
+        run: sleep 1
+      - name: Step 56
+        run: sleep 1
+      - name: Step 57
+        run: sleep 1
+      - name: Step 58
+        run: sleep 1
+      - name: Step 59
+        run: sleep 1
+      - name: Step 60
+        run: sleep 1
+      - name: Step 61
+        run: sleep 1
+      - name: Step 62
+        run: sleep 1
+      - name: Step 63
+        run: sleep 1
+      - name: Step 64
+        run: sleep 1
+      - name: Step 65
+        run: sleep 1
+      - name: Step 66
+        run: sleep 1
+      - name: Step 67
+        run: sleep 1
+      - name: Step 68
+        run: sleep 1
+      - name: Step 69
+        run: sleep 1
+      - name: Step 70
+        run: sleep 1
+      - name: Step 71
+        run: sleep 1
+      - name: Step 72
+        run: sleep 1
+      - name: Step 73
+        run: sleep 1
+      - name: Step 74
+        run: sleep 1
+      - name: Step 75
+        run: sleep 1
+      - name: Step 76
+        run: sleep 1
+      - name: Step 77
+        run: sleep 1
+      - name: Step 78
+        run: sleep 1
+      - name: Step 79
+        run: sleep 1
+      - name: Step 80
+        run: sleep 1
+      - name: Step 81
+        run: sleep 1
+      - name: Step 82
+        run: sleep 1
+      - name: Step 83
+        run: sleep 1
+      - name: Step 84
+        run: sleep 1
+      - name: Step 85
+        run: sleep 1
+      - name: Step 86
+        run: sleep 1
+      - name: Step 87
+        run: sleep 1
+      - name: Step 88
+        run: sleep 1
+      - name: Step 89
+        run: sleep 1
+      - name: Step 90
+        run: sleep 1
+      - name: Step 91
+        run: sleep 1
+      - name: Step 92
+        run: sleep 1
+      - name: Step 93
+        run: sleep 1
+      - name: Step 94
+        run: sleep 1
+      - name: Step 95
+        run: sleep 1
+      - name: Step 96
+        run: sleep 1
+      - name: Step 97
+        run: sleep 1
+      - name: Step 98
+        run: sleep 1
+      - name: Step 99
+        run: sleep 1
+      - name: Step 100
+        run: sleep 1
